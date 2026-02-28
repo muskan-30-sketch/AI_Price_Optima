@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Brand,SellerID
+P00003,Smartphone Case,Clothing,Zenith,SELL01349
+P00032,Board Game,Toys & Games,ReadMore,SELL00680
+P00014,Drone Mini,Home & Kitchen,Apex,SELL00556
+P00034,Desk Organizer,Books,Apex,SELL00299
+P00016,Air Fryer,Books,ReadMore,SELL01625
+P00029,T-Shirt,Clothing,ReadMore,SELL00488
+P00041,Webcam Full HD,Sports & Outdoors,Zenith,SELL00670
+P00014,Drone Mini,Home & Kitchen,FitLife,SELL00247
+P00044,Power Bank 20000mAh,Electronics,FitLife,SELL01569
+P00013,Action Camera,Home & Kitchen,Apex,SELL00630
+P00040,Microphone,Electronics,ReadMore,SELL00611
+P00009,Portable SSD 1TB,Electronics,Apex,SELL00234
+P00021,Backpack,Sports & Outdoors,CoreTech,SELL00743
+P00011,Fitness Band,Home & Kitchen,FitLife,SELL01111
+P00041,Webcam Full HD,Electronics,BrightLux,SELL01767
+P00028,Jeans,Home & Kitchen,HomeEase,SELL00374
+P00009,Portable SSD 1TB,Toys & Games,NexPro,SELL00027
+P00031,Kids Toy Car,Home & Kitchen,ReadMore,SELL01629
+P00014,Drone Mini,Home & Kitchen,Apex,SELL00121
+P00044,Power Bank 20000mAh,Toys & Games,UrbanStyle,SELL01258
+P00009,Portable SSD 1TB,Electronics,HomeEase,SELL00948
+P00003,Smartphone Case,Toys & Games,ReadMore,SELL00348
+P00043,HDMI Cable 2m,Sports & Outdoors,KiddoFun,SELL01276
+P00022,Water Bottle,Toys & Games,CoreTech,SELL01739
+P00028,Jeans,Electronics,UrbanStyle,SELL01334
+P00024,Yoga Mat,Toys & Games,FitLife,SELL00469
+P00012,Noise Cancelling Headphones,Clothing,Zenith,SELL00806
+P00019,LED Desk Lamp,Clothing,ReadMore,SELL01867
+P00036,Smart Light Bulb,Toys & Games,CoreTech,SELL00366
+P00010,Smartwatch,Sports & Outdoors,Apex,SELL01209
+P00025,Running Shoes,Books,UrbanStyle,SELL00509
+P00014,Drone Mini,Toys & Games,HomeEase,SELL01714
+P00005,Laptop Sleeve,Books,Apex,SELL01875
+P00005,Laptop Sleeve,Home & Kitchen,KiddoFun,SELL01913
+P00038,External HDD 2TB,Home & Kitchen,Apex,SELL00679
+P00017,Electric Kettle,Electronics,BrightLux,SELL01973
+P00013,Action Camera,Home & Kitchen,KiddoFun,SELL01617
+P00018,Vacuum Cleaner,Home & Kitchen,UrbanStyle,SELL01182
+P00027,Winter Jacket,Electronics,Apex,SELL01012
+P00027,Winter Jacket,Electronics,NexPro,SELL01372
+P00001,Wireless Earbuds,Books,NexPro,SELL01033
+P00034,Desk Organizer,Home & Kitchen,Apex,SELL00676
+P00012,Noise Cancelling Headphones,Toys & Games,ReadMore,SELL00497
+P00022,Water Bottle,Sports & Outdoors,FitLife,SELL00577
+P00050,Novel Bestseller,Clothing,FitLife,SELL00675
+P00023,Cookware Set,Books,KiddoFun,SELL00758
+P00034,Desk Organizer,Home & Kitchen,BrightLux,SELL01873
+P00026,Sunglasses,Clothing,Zenith,SELL01840
+P00028,Jeans,Electronics,Zenith,SELL01978
+P00039,Graphic Tablet,Home & Kitchen,NexPro,SELL00143
